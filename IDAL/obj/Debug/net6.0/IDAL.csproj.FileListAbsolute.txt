@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\bin\Debug\net6.0\IDAL.deps.json
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\bin\Debug\net6.0\IDAL.dll
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\bin\Debug\net6.0\IDAL.pdb
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\bin\Debug\net6.0\DTO.dll
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfo.cs
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.csproj.CopyComplete
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.dll
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\refint\IDAL.dll
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\IDAL.pdb
+C:\Users\USER\Documents\לימודים\אחרי שנה ב\מגה טק\נסיעת מבחן\YenteServer\IDAL\obj\Debug\net6.0\ref\IDAL.dll
